@@ -1,1 +1,1 @@
-# Functional-Reduced-And-Inverter-Graph
+# Functional Reduced And Inverter Graph
